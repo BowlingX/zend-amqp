@@ -1,0 +1,9 @@
+{
+  "name": "kihamo/zend-amqp",
+  "description": "kihamo/zend-amqp",
+  "autoload": {
+    "psr-0": {
+      "Kihamo_": "."
+    }
+  }
+}
